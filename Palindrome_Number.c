@@ -1,3 +1,6 @@
+// If a number is negative, it cannot be a palindrome
+// Create a reversed version of input x: 243 => 342
+// If initial input and reversed version are equal, return true
 bool isPalindrome(int x){
     if (x < 0) return false;
     int og = x;
