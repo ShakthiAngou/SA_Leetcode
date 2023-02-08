@@ -1,4 +1,4 @@
-# SA_Leetcode
+# Shakthi's Leetcode Practice
 
 This is a compilation of all the solutions I wrote to Leetcode problems I have successfully solved. 
 
