@@ -9,6 +9,6 @@ Starting 08 Feb 2023.
 2. Two Sum
 
 *Medium*
-1. Add Two Numbers
+
 
 *Hard*
