@@ -8,6 +8,7 @@ Starting 08 Feb 2023.
 1. Palindrome Number
 2. Two Sum
 3. Isomorphic Strings
+4. Is Subsequence
 
 *Medium*
 1. Reverse Integer
