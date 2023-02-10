@@ -7,6 +7,7 @@ Starting 08 Feb 2023.
 *Easy*
 1. Palindrome Number
 2. Two Sum
+3. Isomorphic Strings
 
 *Medium*
 1. Reverse Integer
