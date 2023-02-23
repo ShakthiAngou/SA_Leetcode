@@ -9,6 +9,7 @@ Starting 08 Feb 2023.
 2. Two Sum
 3. Isomorphic Strings
 4. Is Subsequence
+5. Find Pivot Index
 
 *Medium*
 1. Reverse Integer
